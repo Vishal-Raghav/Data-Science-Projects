@@ -1,2 +1,1 @@
-# Data-Science-Projects
-Data Science Projects
+# Linear Regression Advertising Data
